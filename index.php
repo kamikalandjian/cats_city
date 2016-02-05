@@ -2,6 +2,10 @@
 
 echo 'hello';
 
-array('cats', 'bats', 'rats');
+<<<<<<< HEAD
+array('cats', 'bats', 'hats');
+=======
+array('cats', 'house', 'rats');
+>>>>>>> origin/master
 
 ?>
