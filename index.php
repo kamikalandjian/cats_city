@@ -2,6 +2,6 @@
 
 echo 'hello';
 
-array('cats', 'bats', 'rats');
+array('cats', 'house', 'rats');
 
 ?>
